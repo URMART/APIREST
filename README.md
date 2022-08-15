@@ -1,1 +1,1 @@
-Api Rest con python, Django y Json
+Api Rest con python, Django, MySql y Json
